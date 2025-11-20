@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Welcome to Keio SPP Lab!
+======
 I’m Naoya Nagata, an educator and researcher specializing in sport and performance psychology. My  research focuses on enhancing practitioners’ performance based on knowledge from psychology and sports science, and on helping practitioners build effective and positive performance environments. In 2026, I will launch my new research laboratory, Keio Sport & Performance Psychology Lab.
 
 A data-driven personal website
