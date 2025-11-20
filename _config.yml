@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "face.jpg"
   name             : "Naoya Nagata"  # Update this with your name
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Yokohama, Japan"
   employer         : "Keio University"
-  uri              : # URL
-  email            : "nnagata@keio.jp" 
+  uri              : https://ipe.hc.keio.ac.jp/
+  email            : "nnagata@keio.jp"
 
   # Academic websites
   academia         : # URL
@@ -50,7 +50,7 @@ author:
   dribbble         : # Username
   github           : "academicpages"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation       : # Username
