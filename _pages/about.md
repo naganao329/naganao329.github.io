@@ -14,6 +14,7 @@ I’m Naoya Nagata, an educator and researcher specializing in sport and perform
 
 What's Keio SPP Lab?
 ======
+
 The lab will be established as a seminar program within the [Institute of Physical Education](https://ipe.hc.keio.ac.jp/) at [Keio University](https://www.keio.ac.jp/ja/). It focuses on developing performers’ skills across a wide range of performance domains. In performance settings—including sports, healthcare, the arts, rescue operations, and defense—performers are required to enhance their abillities and collaborate effectively as a team.
 
 The aims of this lab is to study theories and applications from psychology and sport sciences, and to explore how these insight can be utilized to support performers seeking excellece.
