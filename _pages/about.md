@@ -1,19 +1,17 @@
 ---
 permalink: /
-title:
+title: "Welcome to Keio Sport & Performance Psychology Lab!"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to Keio SPP Lab!
-======
-Hi there! This site is the website of "Keio Sport & Performance Psychology Lab." 
 
+Hi there! This site is the website of "Keio Sport & Performance Psychology Lab."
 
 What's Keio Sport & Performance Psychology Lab?
 ======
-
+The lab will be established as a seminar program within the Institute of Physical Education at Keio University. It focuses on developing performers’ skills across a wide range of performance domains. In performance settings—including sports, healthcare, the arts, rescue operations, and defense—performers are required to enhance their skills and collaborate effectively as a team.
 
 About Lab Director
 ======
