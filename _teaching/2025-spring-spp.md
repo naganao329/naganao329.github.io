@@ -8,7 +8,7 @@ date: 2025-04-01
 location: "Hiyoshi Campus"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This class aims to explore the relationship between performance and psychology, and to help participants apply this knowledge to their own performance environments.
 
 Heading 1
 ======

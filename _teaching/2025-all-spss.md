@@ -1,6 +1,6 @@
 ---
 title: "Sport & Performance Psychology Seminer"
-collection: classes
+collection: teaching
 type: "Seminer"
 permalink: /classes/2025-all-spss
 venue:  "Mondays, 4:45p.m. - 6:00p.m."

@@ -1,6 +1,6 @@
 ---
 title: "Basketball"
-collection: classes
+collection: teaching
 type: "Sport Activities"
 permalink: /classes/2025-all-basketball
 venue: "Weds. & Thus., 9:00a.m., 10:45a.m., & 1:00p.m."
