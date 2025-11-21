@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I’m Naoya Nagata, an educator and researcher specializing in sport and performance psychology. My research focuses on performance enhancement, caring & task-involving climate, and attention control.
+I'm Naoya Nagata, an educator and researcher specializing in sport and performance psychology. My research focuses on performance enhancement, caring & task-involving climate, and attention control.
 
 **Performance enhancement** involves improving performance, particularly among athletes and coaches, by utilizing mental performance skills.
 
@@ -17,7 +17,7 @@ I’m Naoya Nagata, an educator and researcher specializing in sport and perform
 
 **Attentional control** involves engaging in optimal attentional processes, particularly attentional focus and divided attention.
 
-In addition to my university teaching and research, I provide consultation services in the field of sports, supporting both athletes and coaches. I have worked with a wide range of clients—from high school to national-level athletes, and across both individual and team sports. To enhance performance and improve participants’ overall experience, I apply scientific knowledge and evidence-based methods tailored to each client’s needs.<br><br><br>
+In addition to my university teaching and research, I provide consultation services in the field of sports, supporting both athletes and coaches. I have worked with a wide range of clients—from high school to national-level athletes, and across both individual and team sports. To enhance performance and improve participants’ overall experience, I apply scientific knowledge and evidence-based methods tailored to each client’s needs.<br><br>
 
 Education
 ======
@@ -31,8 +31,7 @@ Work experience
 * Associate Professor
   * Institute of Physical Education, Keio University<br>
   Promotion history: Assistant Professor →  (2023)<br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  Research Associate → (2017)
+  >>>>>>>>>>>>Research Associate → (2017)
 
 Credentials
 ======
@@ -51,7 +50,7 @@ Professional Experiences
   * Sport Psychology Staff<br>
   Japan National Team Headquater, Asian Youth Para Games Dubai 2017 & Bahrain 2021
 
-&emsp;&emsp;&emsp;&emsp;*Consultation services have been provided to a wide range of clients across various fields.
+>>>>>>Consultation services have been provided to a wide range of clients across various fields.
 
 * Coach Developer
   * A & B Class Coach Develoer, Japan Basketball Association
