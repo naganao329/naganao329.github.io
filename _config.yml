@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Naoya Nagata / Keio Sport & Performance Psychoilogy Lab"
 title_separator          : "-"
 name                     : &name "Naoya Nagata"                     # Update this with your name
@@ -29,7 +29,7 @@ author:
   bio              : "Educator, Researcher, and Mental Performance Coach"
   location         : "Yokohama, Japan"
   employer         : "Keio University"
-  uri              : https://ipe.hc.keio.ac.jp/
+  uri              :  # Personal website URL
   email            : "nnagata@keio.jp"
 
   # Academic websites
