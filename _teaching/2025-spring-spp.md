@@ -1,6 +1,6 @@
 ---
 title: "Performance Psychology"
-collection: classes
+collection: teaching
 type: "Lecture"
 permalink: /classes/2025-spring-pp
 venue: "Mondays, 1:00p.m. - 2:30p.m."
