@@ -1,13 +1,23 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "About Me"
+permalink: /aboutme/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+
+I’m Naoya Nagata, an educator and researcher specializing in sport and performance psychology. My research focuses on performance enhancement, caring & task-involving climate, and attention control.
+
+**Performance enhancement** involves improving performance, particularly among athletes and coaches, by utilizing mental performance skills.
+
+**Caring & task-involving climate** refers to creating a supportive environment that promotes participation and the improvement of sport skills.
+
+**Attentional control** involves engaging in optimal attentional processes, particularly attentional focus and divided attention.
+
+In addition to my university teaching and research, I provide consultation services in the field of sports, supporting both athletes and coaches. I have worked with a wide range of clients—from high school to national-level athletes, and across both individual and team sports. To enhance performance and improve participants’ overall experience, I apply scientific knowledge and evidence-based methods tailored to each client’s needs.<br><br><br>
 
 Education
 ======
@@ -50,20 +60,5 @@ Professional Experiences
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  &emsp;&emsp;Please refer to my [ORCID](https://orcid.org/0009-0006-2652-2626) or [Researchmap (Japanese)](https://researchmap.jp/naoya.nagata?lang=en) profile.
 
