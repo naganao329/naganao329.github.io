@@ -2,9 +2,9 @@
 title: "Basketball"
 collection: teaching
 type: "Sport Activities"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-all-basketball
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2025-04-01
 location: "City, Country"
 ---
 
