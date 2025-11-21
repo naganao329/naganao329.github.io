@@ -29,9 +29,9 @@ Education
 Work experience
 ======
 * Associate Professor
-  * Institute of Physical Education, Keio University<br>
-  Promotion history: Assistant Professor →  (2023)<br>
-  >>>>>>>>>>>>Research Associate → (2017)
+  * Institute of Physical Education, Keio University\
+  Assistant Professor →  (2023)\
+  Research Associate → (2017)
 
 Credentials
 ======
@@ -43,14 +43,14 @@ Credentials
 Professional Experiences
 ======
 * Mental Performance Coach
-  * Team Leader<br>
+  * Team Leader\
   Psychological Support Team, Japan Paralympic Committee  2019 - 2013
-  * Sport Psychology Staff<br>
+  * Sport Psychology Staff\
   Multi-Support House for Japan National Team, Asian Para Games Incheon 2014
-  * Sport Psychology Staff<br>
+  * Sport Psychology Staff\
   Japan National Team Headquater, Asian Youth Para Games Dubai 2017 & Bahrain 2021
 
->>>>>>Consultation services have been provided to a wide range of clients across various fields.
+    Consultation services have been provided to a wide range of clients across various fields.
 
 * Coach Developer
   * A & B Class Coach Develoer, Japan Basketball Association
