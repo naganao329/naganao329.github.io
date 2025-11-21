@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Performance Psychology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture"
+permalink: /teaching/2025-spring-pp
+venue: "Mondays, 1:00p.m. - 2:30p.m."
+date: 2025-04-01
+location: "Hiyoshi Campus"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

@@ -3,12 +3,12 @@ title: "Basketball"
 collection: teaching
 type: "Sport Activities"
 permalink: /teaching/2015-all-basketball
-venue: "University 1, Department"
+venue: "Weds. & Thus., 9:00a.m., 10:45a.m., & 1:00p.m."
 date: 2025-04-01
-location: "City, Country"
+location: "Hiyoshi Commemoriative Hall, Hiyoshi Campus"
 ---
 
-This classes' aim to improve basketball skills and collaborate with each participants.
+These classes aim to develop basketball skills and encourage effective collaboration among participants.
 
 Heading 1
 ======
