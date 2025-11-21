@@ -2,7 +2,7 @@
 title: "Sport & Performance Psychology Seminer"
 collection: teaching
 type: "Seminer"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
