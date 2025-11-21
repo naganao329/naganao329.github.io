@@ -10,11 +10,15 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Sport & Performance Psychology Seminer
 ======
+Seminer, Mondays, 4:30 p.m. - 6:00 p.m.
 
-Heading 2
+This class 
+
+Performance Psychology
 ======
+Lecture,  Spring Semester, Mondays, 1:00 p.m. - 2:30 p.m.
 
 Heading 3
 ======

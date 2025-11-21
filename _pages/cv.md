@@ -21,7 +21,7 @@ Work experience
 * Associate Professor
   * Institute of Physical Education, Keio University<br>
   Promotion history: Assistant Professor →  (2023)<br>
-<code>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<code>Research Associate → (2017)
+<code>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;</code>Research Associate → (2017)
 
 Skills
 ======
