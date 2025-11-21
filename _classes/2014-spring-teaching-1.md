@@ -2,7 +2,7 @@
 title: "Basketball"
 collection: classes
 type: "Sport Activities"
-permalink: /classes/2015-all-basketball
+permalink: /classes/2025-all-basketball
 venue: "Weds. & Thus., 9:00a.m., 10:45a.m., & 1:00p.m."
 date: 2025-04-01
 location: "Hiyoshi Commemoriative Hall, Hiyoshi Campus"
