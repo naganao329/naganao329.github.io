@@ -2,9 +2,9 @@
 title: "Performance Psychology"
 collection: teaching
 type: "Lecture"
-permalink: /classes/2025-spring-pp
+permalink: /classes/2026-spring-pp
 venue: "Mondays, 1:00p.m. - 2:30p.m."
-date: 2025-04-01
+date: 2026-04-01
 location: "Hiyoshi Campus"
 ---
 

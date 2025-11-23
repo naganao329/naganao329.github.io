@@ -2,9 +2,9 @@
 title: "Sport & Performance Psychology Seminer"
 collection: teaching
 type: "Seminer"
-permalink: /classes/2025-all-spss
+permalink: /classes/2026-all-spss
 venue:  "Mondays, 4:45p.m. - 6:00p.m."
-date: 2025-04-01
+date: 2026-04-01
 location: "Hiyoshi Campus"
 ---
 
