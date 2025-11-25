@@ -15,7 +15,7 @@ main:
 #    url: /talks/
 
   - title: "About Me"
-    url: /cv/
+    url: /about-me/
 
   - title: "Classes"
     url: /classes/
