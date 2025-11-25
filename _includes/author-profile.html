@@ -68,6 +68,9 @@
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
       {% endif %}
+      {% if author.researchmap %}
+        <li><a href="{{ author.researchmap }}"><i class="ai ai-researchmap ai-fw icon-pad-right"></i>researchmap</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
