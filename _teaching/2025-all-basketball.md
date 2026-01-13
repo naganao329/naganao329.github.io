@@ -9,12 +9,3 @@ location: "Hiyoshi Commemoriative Hall, Hiyoshi Campus"
 ---
 
 These classes aim to develop basketball skills and encourage effective collaboration among participants.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

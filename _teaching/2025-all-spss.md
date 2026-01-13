@@ -10,11 +10,10 @@ location: "Hiyoshi Campus"
 
 This class focuses on studying and discussing psychological and sports science perspectives on performance.
 
-Heading 1
+Spring Semester
 ======
 
-Heading 2
+
+Fall Semester
 ======
 
-Heading 3
-======
