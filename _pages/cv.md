@@ -22,6 +22,7 @@ In addition to my university teaching and research, I provide consultation servi
 Education
 ======
 * M.P.E., Tokai University, 2008
+  Advisor: Yoichi KOZUMA
 * B.P.E., Tokai University, 2006
 * Completed Doctoral Coursework (withdrew before dissertation), Chukyo University, 2014
 * Completed Doctoral Coursework (withdrew before dissertation), Tokyo University of Agriculture and Technology, 2020
@@ -33,7 +34,8 @@ Work experience
   Assistant Professor →  (2023)\
   Research Associate → (2017)
 * Visiting Scholar
-  * Sport & Exercise Psychology Lab., University of Kansas
+  * Sport & Exercise Psychology Lab., University of Kansas (2024-2026)
+    Advisor: Mary Fry, Ph.D.
 
 Credentials
 ======
