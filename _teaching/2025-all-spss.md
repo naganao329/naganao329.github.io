@@ -10,8 +10,8 @@ location: "Hiyoshi Campus"
 
 This class focuses on studying and discussing psychological and sports science perspectives on performance.
 
-* Spring Semester
- In spring semester, We focus on methods how to enhance sport performances.
+* Spring Semester:\
+We focus on methods how to enhance sport performances.
 
 
 * Fall Semester
