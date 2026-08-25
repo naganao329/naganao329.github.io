@@ -11,9 +11,10 @@ location: "Hiyoshi Campus"
 This class focuses on studying and discussing psychological and sports science perspectives on performance.
 
 * Spring Semester:\
-We focus on methods how to enhance sport performances.
+The aim of this semester is  methods to enhance sporting performances.
 
 
-* Fall Semester
+* Fall Semester:\
+The aim of this semster is  methods to evaluate and research on psychological aspects in sports. 
 ======
 
