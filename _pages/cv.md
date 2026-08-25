@@ -32,6 +32,8 @@ Work experience
   * Institute of Physical Education, Keio University\
   Assistant Professor →  (2023)\
   Research Associate → (2017)
+* Visiting Scholar
+  * Sport & Exercise Psychology Lab., University of Kansas
 
 Credentials
 ======
