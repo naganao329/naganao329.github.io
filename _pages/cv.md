@@ -33,7 +33,7 @@ Work experience
   Assistant Professor →  (2023)\
   Research Associate → (2017)
 * Visiting Scholar
-  * Sport & Exercise Psychology Lab., University of Kansas (2024-2026)
+   Sport & Exercise Psychology Lab., University of Kansas (2024-2026)
 
 Credentials
 ======
